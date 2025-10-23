@@ -1,6 +1,6 @@
-#biography = {'name':'Mikaela','hometown': 'Abu Dhabi' ,'age':22}
-#for value in biography.values():
-#    print(value)
+biography = {'name':'Mikaela','hometown': 'Abu Dhabi' ,'age':22}
+for value in biography.values():
+    print(value)
 
 
 
